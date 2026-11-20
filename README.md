@@ -6,6 +6,8 @@ A local-first, simulation-based Physical AI dashboard that demonstrates **App Ro
 
 > Safety / scope: **This project does not send any control commands to the real SO-101 or TurtleBot3.** The 3D robot shapes are **approximate conceptual models**, not their URDFs. Motion timing and the pick-and-place sequence are simulated; no IK, physics, collision avoidance, or robot safety system is implemented.
 
+📖 **Documentation (Japanese):** [docs/physical_ai_mission_control_docs.md](docs/physical_ai_mission_control_docs.md)
+
 ## Prerequisites
 
 - Node.js 22+, npm 10+.
